@@ -1,27 +1,22 @@
-# CMPSC 480: Assignment #1, the Field Survey
-
-`Due` 7 September 2022
+# The Field Survey
 
 ## Overview
 
-Our first assignment in the course is a set of surveys: one that will help me understand your personal goals for this class
-and another that you can use to start thinking about exploring the various directions that this course can take for you and
-your classmates. The main questions we're interested in are those of what one field that catches your interest _looks like_.
+The first thing we need to do on our path toward understanding our professional future is a set of surveys: one that will help you understand 
+your personal goals for this class and another that you can use to start thinking about exploring the various directions that this course can take 
+for you. The main questions we're interested in are those of what one field that catches your interest _looks like_.
 
-Given that there are a wide variety of "end game" scenarios for everyone in the course, this assignment features a few paths.
-I ask, however, that for now you stick with one and complete this work using one area on which to focus your attention.
+Given that there are a wide variety of "end game" scenarios for everyone doing professional development work, this assignment features a few paths.
+It's, however, that for now you stick with one and complete this work using one area on which to focus your attention.
 
 ## Deliverables
 
 ### The Goals Survey
 
-To better plan how we complete activities, my experience teaching this course has shown me that it's helpful to know what each
-student in the course intends to get from the content. To that end, please fill out:
+To better plan how we complete activities, our experience with these materials has shown that it's helpful to know what each
+participant intends to get from the content. To that end, please fill out:
 
 * [The Goals Survey](https://forms.gle/FPFSGRMPLSJqs7J3A)
-
-I ask that this be completed by the start of class on Friday, earlier is always better. Depending on how closely the results
-correlate, we may take some course reorganization action to center on certain needs or desires.
 
 ### The Industry Survey
 
@@ -55,22 +50,3 @@ For folks looking at graduate schools or other academic opportunities:
 * Find research topics which are currently dominant in the field; list at least `3`
 * Discover conventions and other disciplnary gatherings particular to the field; depending on your chosen focus, these may be pretty small
 * A list or description of typical outcomes of a graduate-level education based on the programs you've chosen
-
-## Evaluation
-
-These additional grade specifications contemplate that _all basic requirements are met to apply_. Because our course is broken into tiers for grading, I provide the guidelines for achieving them here:
-
-### `A` tier
-
-* Develop a short presentation or resource (i.e. links repository) from your findings
-  * Upload the slides to your repository in the `presentation` folder
-* Choose more than the minimum count for each item with a suggested total
-  * i.e. complete work for `7` schools rather than `5`
-* Provide additional information for topics such as credentials, degrees awarded in the field, et al.
-* Provide specific examples of conversations in the discipline you find interesting (i.e. a report on one "newsworthy" item
-
-### `B+` Tier
-
-* Choose more than the minimum count for each item with a suggested total
-  * i.e. complete work for `7` schools rather than `5`
-* Provide specific examples of conversations in the discipline you find interesting (i.e. a report on one "newsworthy" item
