@@ -16,7 +16,7 @@ It's, however, that for now you stick with one and complete this work using one 
 To better plan how we complete activities, our experience with these materials has shown that it's helpful to know what each
 participant intends to get from the content. To that end, please fill out:
 
-* [The Goals Survey](https://forms.gle/FPFSGRMPLSJqs7J3A)
+* [The Goals Survey](https://forms.gle/xQgXq3dKgePxodC76)
 
 ### The Industry Survey
 
